@@ -1,9 +1,6 @@
 package com.example.baseloginui;
 
-import java.io.File;
-import java.io.FileReader;
 import java.util.HashMap;
-import java.io.BufferedReader;
 import java.util.Objects;
 
 public class UserData {
